@@ -3,8 +3,8 @@
 class Meili < Formula
   desc "Command-line tool for Meilisearch and Meilisearch Cloud"
   homepage "https://github.com/meilisearch/cli"
-  url "https://registry.npmjs.org/@meilisearch/cli/-/cli-0.3.0.tgz"
-  sha256 "db18da0b530ad6ade94194334991bfcba01db3c6538c3be90de6aa7d0adb44fe"
+  url "https://registry.npmjs.org/@meilisearch/cli/-/cli-0.4.0.tgz"
+  sha256 "3e056a618b83eb38daad24a1a69a727c6f8116c719370770ca700b58b77b991d"
   license "MIT"
 
   depends_on "node"
